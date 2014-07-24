@@ -10,7 +10,8 @@ Poverty line
 5. What a dollar per day buys you in different countries
 
 
-Data:
+Data
+
 1. World Bank - http://data.worldbank.org/topic/poverty
 2. CIA Factbook - https://www.cia.gov/library/publications/the-world-factbook/fields/2046.html
 
