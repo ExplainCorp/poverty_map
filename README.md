@@ -10,6 +10,7 @@ Poverty line
 5. What a dollar per day buys you in different countries
 
 
+------------
 Data
 
 1. World Bank - http://data.worldbank.org/topic/poverty
