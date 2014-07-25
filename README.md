@@ -2,12 +2,10 @@
 Poverty line
 
 1. History of poverty line
-2. Global poverty lines
-3. Median income
-4. Number of people living in poverty
-	> Currently working on a world map (-ty)
-
-5. What a dollar per day buys you in different countries
+2. Global poverty population (map)
+3. Focus on India
+4. Poverty by class/caste
+5. Living in poverty
 
 
 ------------
